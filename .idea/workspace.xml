@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05ff306b-fb5b-41bf-94dd-84fd95dbcb21" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <marker date="1511840398248" expanded="true" signature="0:204" ph="{&quot;name&quot;: &quot;txui&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkBox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/popUp/lib/checkBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1511850755737" expanded="true" signature="364:3300" ph="{...}" />
+                <marker date="1511850755737" expanded="true" signature="1695:2230" ph="{...}" />
+                <marker date="1511850755737" expanded="true" signature="1771:2205" ph="&lt;TouchableNativeFeedback/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="1919:2162" ph="&lt;View/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="2242:2261" ph="//..." />
+                <marker date="1511850755737" expanded="true" signature="2276:3298" ph="{...}" />
+                <marker date="1511850755737" expanded="true" signature="2306:3281" ph="&lt;View/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="2349:2355" ph="/*...*/" />
+                <marker date="1511850755737" expanded="true" signature="2373:2439" ph="&lt;View/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="2457:2463" ph="/*...*/" />
+                <marker date="1511850755737" expanded="true" signature="2481:2620" ph="&lt;View/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="2638:2646" ph="/*...*/" />
+                <marker date="1511850755737" expanded="true" signature="2664:3261" ph="&lt;View/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="2717:2725" ph="/*...*/" />
+                <marker date="1511850755737" expanded="true" signature="2747:2963" ph="&lt;Button/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="2985:2993" ph="/*...*/" />
+                <marker date="1511850755737" expanded="true" signature="3015:3237" ph="&lt;Button/&gt;" />
+                <marker date="1511850755737" expanded="true" signature="3345:3462" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+                <marker date="1511850755737" expanded="true" signature="3476:3581" ph="{&quot;alignItems&quot;: 'center'...}" />
+                <marker date="1511850755737" expanded="true" signature="3599:3714" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+                <marker date="1511850755737" expanded="true" signature="3732:3893" ph="{&quot;flexDirection&quot;: 'row'...}" />
+                <marker date="1511850755737" expanded="true" signature="3909:4132" ph="{&quot;flexDirection&quot;: 'row'...}" />
+                <marker date="1511850755737" expanded="true" signature="4148:4223" ph="{...}" />
+                <marker date="1511850755737" expanded="true" signature="4708:4823" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+                <marker date="1511850755737" expanded="true" signature="4841:4993" ph="{&quot;backgroundColor&quot;: &quot;##ff5e61&quot;...}" />
+                <marker date="1511850755737" expanded="true" signature="5009:5121" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/popUp/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1511851107025" expanded="true" signature="328:4039" ph="{...}" />
+                <marker date="1511851107025" expanded="true" signature="3278:4037" ph="{...}" />
+                <marker date="1511851107025" expanded="true" signature="3308:4021" ph="&lt;Modal/&gt;" />
+                <marker date="1511851107025" expanded="true" signature="3676:4000" ph="&lt;TouchableOpacity/&gt;" />
+                <marker date="1511851107025" expanded="true" signature="3784:3964" ph="&lt;View/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RButton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/button/RButton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textBox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/popUp/lib/textBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+                <marker date="1511850755593" expanded="true" signature="229:2191" ph="{...}" />
+                <marker date="1511850755593" expanded="true" signature="813:1040" ph="{...}" />
+                <marker date="1511850755593" expanded="true" signature="893:998" ph="&lt;Text/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="1071:2189" ph="{...}" />
+                <marker date="1511850755593" expanded="true" signature="1102:2172" ph="&lt;View/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="1145:1151" ph="/*...*/" />
+                <marker date="1511850755593" expanded="true" signature="1169:1235" ph="&lt;View/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="1253:1259" ph="/*...*/" />
+                <marker date="1511850755593" expanded="true" signature="1277:1417" ph="&lt;View/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="1435:1443" ph="/*...*/" />
+                <marker date="1511850755593" expanded="true" signature="1461:2152" ph="&lt;View/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="1514:1522" ph="/*...*/" />
+                <marker date="1511850755593" expanded="true" signature="1544:1808" ph="&lt;Button/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="1830:1838" ph="/*...*/" />
+                <marker date="1511850755593" expanded="true" signature="1860:2128" ph="&lt;Button/&gt;" />
+                <marker date="1511850755593" expanded="true" signature="2236:2381" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+                <marker date="1511850755593" expanded="true" signature="2395:2537" ph="{&quot;alignItems&quot;: 'center'...}" />
+                <marker date="1511850755593" expanded="true" signature="2555:2670" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+                <marker date="1511850755593" expanded="true" signature="2688:2833" ph="{&quot;alignItems&quot;: 'center'...}" />
+                <marker date="1511850755593" expanded="true" signature="2852:2959" ph="{&quot;fontFamily&quot;: &quot;Roboto-Regular&quot;...}" />
+                <marker date="1511850755593" expanded="true" signature="3444:3559" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+                <marker date="1511850755593" expanded="true" signature="3577:3729" ph="{&quot;backgroundColor&quot;: &quot;##ff5e61&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="radioBox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/popUp/lib/radioBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="46" column="49" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="49" />
+              <folding>
+                <marker date="1511850755568" expanded="true" signature="320:2212" ph="{...}" />
+                <marker date="1511850755568" expanded="true" signature="1289:1886" ph="{...}" />
+                <marker date="1511850755568" expanded="true" signature="1365:1861" ph="&lt;TouchableNativeFeedback/&gt;" />
+                <marker date="1511850755568" expanded="true" signature="1513:1818" ph="&lt;View/&gt;" />
+                <marker date="1511850755568" expanded="true" signature="1914:2210" ph="{...}" />
+                <marker date="1511850755568" expanded="true" signature="1945:2193" ph="&lt;View/&gt;" />
+                <marker date="1511850755568" expanded="true" signature="1989:2101" ph="&lt;View/&gt;" />
+                <marker date="1511850755568" expanded="true" signature="2257:2374" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+                <marker date="1511850755568" expanded="true" signature="2388:2493" ph="{&quot;alignItems&quot;: 'center'...}" />
+                <marker date="1511850755568" expanded="true" signature="2511:2626" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+                <marker date="1511850755568" expanded="true" signature="2642:2946" ph="{&quot;flexDirection&quot;: 'row'...}" />
+                <marker date="1511850755568" expanded="true" signature="2962:3013" ph="{...}" />
+                <marker date="1511850755568" expanded="true" signature="3029:3104" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BottomDialog.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/component/popUp/lib/BottomDialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/component/util/index.js" />
+        <option value="$PROJECT_DIR$/../UIDemo/node_modules/txui/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/component/popUp/index.js" />
+        <option value="$PROJECT_DIR$/component/popUp/lib/checkBox.js" />
+        <option value="$PROJECT_DIR$/component/popUp/lib/textBox.js" />
+        <option value="$PROJECT_DIR$/component/popUp/lib/radioBox.js" />
+        <option value="$PROJECT_DIR$/component/button/RButton.js" />
+        <option value="$PROJECT_DIR$/component/popUp/lib/BottomDialog.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="4" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="txUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="txUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="txUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="txUI" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../driver/demo/Repair" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myJob\myModules\txUI\component\popUp\lib" />
+      <recent name="D:\myJob\myModules\txUI\component\util" />
+      <recent name="D:\myJob\myModules\txUI\component\button" />
+      <recent name="D:\myJob\myModules\txUI\component\popUp\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05ff306b-fb5b-41bf-94dd-84fd95dbcb21" name="Default" comment="" />
+      <created>1511777630851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511777630851</updated>
+      <workItem from="1511777632348" duration="3684000" />
+      <workItem from="1511838296489" duration="8922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <marker date="1511840398248" expanded="true" signature="0:204" ph="{&quot;name&quot;: &quot;txui&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1511851107025" expanded="true" signature="328:4039" ph="{...}" />
+            <marker date="1511851107025" expanded="true" signature="3278:4037" ph="{...}" />
+            <marker date="1511851107025" expanded="true" signature="3308:4021" ph="&lt;Modal/&gt;" />
+            <marker date="1511851107025" expanded="true" signature="3676:4000" ph="&lt;TouchableOpacity/&gt;" />
+            <marker date="1511851107025" expanded="true" signature="3784:3964" ph="&lt;View/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/lib/checkBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1511850755737" expanded="true" signature="364:3300" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="1695:2230" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="1771:2205" ph="&lt;TouchableNativeFeedback/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="1919:2162" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2242:2261" ph="//..." />
+            <marker date="1511850755737" expanded="true" signature="2276:3298" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="2306:3281" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2349:2355" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2373:2439" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2457:2463" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2481:2620" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2638:2646" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2664:3261" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2717:2725" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2747:2963" ph="&lt;Button/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2985:2993" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="3015:3237" ph="&lt;Button/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="3345:3462" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+            <marker date="1511850755737" expanded="true" signature="3476:3581" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1511850755737" expanded="true" signature="3599:3714" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+            <marker date="1511850755737" expanded="true" signature="3732:3893" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1511850755737" expanded="true" signature="3909:4132" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1511850755737" expanded="true" signature="4148:4223" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="4708:4823" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+            <marker date="1511850755737" expanded="true" signature="4841:4993" ph="{&quot;backgroundColor&quot;: &quot;##ff5e61&quot;...}" />
+            <marker date="1511850755737" expanded="true" signature="5009:5121" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/button/RButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <element signature="e#18#61#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/lib/radioBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/util/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/util/screen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UIDemo/node_modules/txui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <marker date="1511840398248" expanded="true" signature="0:204" ph="{&quot;name&quot;: &quot;txui&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/lib/checkBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1511850755737" expanded="true" signature="364:3300" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="1695:2230" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="1771:2205" ph="&lt;TouchableNativeFeedback/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="1919:2162" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2242:2261" ph="//..." />
+            <marker date="1511850755737" expanded="true" signature="2276:3298" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="2306:3281" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2349:2355" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2373:2439" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2457:2463" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2481:2620" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2638:2646" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2664:3261" ph="&lt;View/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2717:2725" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="2747:2963" ph="&lt;Button/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="2985:2993" ph="/*...*/" />
+            <marker date="1511850755737" expanded="true" signature="3015:3237" ph="&lt;Button/&gt;" />
+            <marker date="1511850755737" expanded="true" signature="3345:3462" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+            <marker date="1511850755737" expanded="true" signature="3476:3581" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1511850755737" expanded="true" signature="3599:3714" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+            <marker date="1511850755737" expanded="true" signature="3732:3893" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1511850755737" expanded="true" signature="3909:4132" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1511850755737" expanded="true" signature="4148:4223" ph="{...}" />
+            <marker date="1511850755737" expanded="true" signature="4708:4823" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+            <marker date="1511850755737" expanded="true" signature="4841:4993" ph="{&quot;backgroundColor&quot;: &quot;##ff5e61&quot;...}" />
+            <marker date="1511850755737" expanded="true" signature="5009:5121" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/lib/textBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+            <marker date="1511850755593" expanded="true" signature="229:2191" ph="{...}" />
+            <marker date="1511850755593" expanded="true" signature="813:1040" ph="{...}" />
+            <marker date="1511850755593" expanded="true" signature="893:998" ph="&lt;Text/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="1071:2189" ph="{...}" />
+            <marker date="1511850755593" expanded="true" signature="1102:2172" ph="&lt;View/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="1145:1151" ph="/*...*/" />
+            <marker date="1511850755593" expanded="true" signature="1169:1235" ph="&lt;View/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="1253:1259" ph="/*...*/" />
+            <marker date="1511850755593" expanded="true" signature="1277:1417" ph="&lt;View/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="1435:1443" ph="/*...*/" />
+            <marker date="1511850755593" expanded="true" signature="1461:2152" ph="&lt;View/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="1514:1522" ph="/*...*/" />
+            <marker date="1511850755593" expanded="true" signature="1544:1808" ph="&lt;Button/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="1830:1838" ph="/*...*/" />
+            <marker date="1511850755593" expanded="true" signature="1860:2128" ph="&lt;Button/&gt;" />
+            <marker date="1511850755593" expanded="true" signature="2236:2381" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+            <marker date="1511850755593" expanded="true" signature="2395:2537" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1511850755593" expanded="true" signature="2555:2670" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+            <marker date="1511850755593" expanded="true" signature="2688:2833" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1511850755593" expanded="true" signature="2852:2959" ph="{&quot;fontFamily&quot;: &quot;Roboto-Regular&quot;...}" />
+            <marker date="1511850755593" expanded="true" signature="3444:3559" ph="{&quot;fontFamily&quot;: &quot;SourceHanSansCN-Normal&quot;...}" />
+            <marker date="1511850755593" expanded="true" signature="3577:3729" ph="{&quot;backgroundColor&quot;: &quot;##ff5e61&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/lib/radioBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="46" column="49" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="49" />
+          <folding>
+            <marker date="1511850755568" expanded="true" signature="320:2212" ph="{...}" />
+            <marker date="1511850755568" expanded="true" signature="1289:1886" ph="{...}" />
+            <marker date="1511850755568" expanded="true" signature="1365:1861" ph="&lt;TouchableNativeFeedback/&gt;" />
+            <marker date="1511850755568" expanded="true" signature="1513:1818" ph="&lt;View/&gt;" />
+            <marker date="1511850755568" expanded="true" signature="1914:2210" ph="{...}" />
+            <marker date="1511850755568" expanded="true" signature="1945:2193" ph="&lt;View/&gt;" />
+            <marker date="1511850755568" expanded="true" signature="1989:2101" ph="&lt;View/&gt;" />
+            <marker date="1511850755568" expanded="true" signature="2257:2374" ph="{&quot;backgroundColor&quot;: '##ffffff'...}" />
+            <marker date="1511850755568" expanded="true" signature="2388:2493" ph="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1511850755568" expanded="true" signature="2511:2626" ph="{&quot;color&quot;: &quot;##666666&quot;...}" />
+            <marker date="1511850755568" expanded="true" signature="2642:2946" ph="{&quot;flexDirection&quot;: 'row'...}" />
+            <marker date="1511850755568" expanded="true" signature="2962:3013" ph="{...}" />
+            <marker date="1511850755568" expanded="true" signature="3029:3104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1511851107025" expanded="true" signature="328:4039" ph="{...}" />
+            <marker date="1511851107025" expanded="true" signature="3278:4037" ph="{...}" />
+            <marker date="1511851107025" expanded="true" signature="3308:4021" ph="&lt;Modal/&gt;" />
+            <marker date="1511851107025" expanded="true" signature="3676:4000" ph="&lt;TouchableOpacity/&gt;" />
+            <marker date="1511851107025" expanded="true" signature="3784:3964" ph="&lt;View/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/button/RButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/popUp/lib/BottomDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
